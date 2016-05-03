@@ -5,9 +5,9 @@
 
 var Urls = {
 
-    webUrl : "http://10.47.23.39:3000",
+    webUrl : "http://localhost:3000",
 
-    socketUrl : "ws://10.47.23.39:8083"
+    socketUrl : "ws://localhost:8083"
 };
 
 
