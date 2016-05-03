@@ -5,7 +5,7 @@ I am a newer to react-native , and I found it is more efficient to learn react-n
 #screenshot
 <img src="screenshot/634430749167055717.jpg" width="300" height="500" />
 <img src="screenshot/350105013079504495.jpg" width="300" height="500" />
-<img src="screenshot/350105013079504495.jpg" width="300" height="500" />
+<img src="screenshot/838573079989045456.jpg" width="300" height="500" />
 <img src="screenshot/116587938977380799.jpg" width="300" height="500" />
 
 #Installation
