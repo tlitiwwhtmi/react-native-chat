@@ -11,10 +11,15 @@ I am a newer to react-native , and I found it is more efficient to learn react-n
 #Installation
 ##Client
 ```bash
-$  git clone git@github.com:tlitiwwhtmi/react-native-chat.git
+$  git clone https://github.com/tlitiwwhtmi/react-native-chat.git
 $  cd react-native-chat
 $  npm install
 ```
 If you do not know what to do next , you can see the react-native [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html#content)
 ##Server
-The server side code will be avaliable soon.......
+```bash
+$  git clone https://github.com/tlitiwwhtmi/react-native-chatserver.git
+$  cd react-native-chatserver
+$  npm install
+$  node server.js
+```
